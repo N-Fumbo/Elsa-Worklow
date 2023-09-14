@@ -1,0 +1,1 @@
+{"version":3,"names":["PanelPosition"],"sources":["./src/components/panel/models.ts"],"sourcesContent":["export interface PanelStateChangedArgs {\n  expanded: boolean;\n}\n\nexport enum PanelPosition {\n  Left,\n  Top,\n  Right,\n  Bottom\n}\n"],"mappings":"IAIYA,GAAZ,SAAYA,GACVA,IAAA,kBACAA,IAAA,gBACAA,IAAA,oBACAA,IAAA,qBACD,EALD,CAAYA,MAAa,Y"}
